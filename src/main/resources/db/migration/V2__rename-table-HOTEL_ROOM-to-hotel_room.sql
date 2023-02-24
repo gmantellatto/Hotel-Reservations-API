@@ -1,0 +1,1 @@
+ALTER TABLE HOTEL_ROOM RENAME hotel_room;
